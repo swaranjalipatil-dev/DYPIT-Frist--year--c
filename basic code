@@ -1,0 +1,6 @@
+  .#include <stdio.h>
+ int main() {
+
+     printf("honesty is best policy.");
+     return 0;
+}
